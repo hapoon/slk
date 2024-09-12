@@ -1,6 +1,6 @@
 module github.com/hapoon/slk
 
-go 1.20
+go 1.22
 
 require (
 	github.com/pelletier/go-toml/v2 v2.0.7
